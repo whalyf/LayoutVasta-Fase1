@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="21" viewBox="0 0 12 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #555;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Próximo" class="cls-1" d="M1156,2063l6.49-10.5L1156,2042h5.51l6.49,10.5-6.49,10.5H1156Z" transform="translate(-1156 -2042)"/>
+</svg>
